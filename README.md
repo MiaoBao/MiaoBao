@@ -7,7 +7,7 @@ I'm Yingrui Yang,
 - 😄 Pronouns: she / hers / ella
 - 💬 Ask me about anything and everything
 - 📫 How to reach me:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raghav-byte/)](linkedin.com/in/yingrui-yang-31b97944/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yingrui-yang-31b97944/)](linkedin.com/in/yingrui-yang-31b97944/) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yingruiyang@ucsb.edu)](mailto:yingruiyang@ucsb.edu)
 - ⚡ Fun fact: The problem you solve is more important than the code you write 🚀
 
